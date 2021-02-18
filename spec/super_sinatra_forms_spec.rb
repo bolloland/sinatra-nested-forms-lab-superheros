@@ -1,4 +1,4 @@
-describe App do
+  describe App do
 
   describe 'GET /' do
     before do 
